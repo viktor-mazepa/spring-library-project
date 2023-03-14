@@ -1,4 +1,3 @@
-# spring-library-project
 <h1>Spring Cource. Practical Project 1.</h1>
 Repository for code which I wrote during Spring Course study (https://www.udemy.com/course/spring-alishev/).
 Simple application which allow to add persons and books into postgresql database, edit selected person and books and update records with new parameter values. 
